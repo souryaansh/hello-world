@@ -1,2 +1,2 @@
-# hello-world
-hey bro ! whats up !
+# Hello World
+Hey bro! What's up?
